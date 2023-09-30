@@ -349,7 +349,7 @@ nav.state{
 }
 
 .about-img{
-    background-image: url(/img/sunnycroft_trees.png);
+    background-image: url(../img/sunnycroft_trees.png);
     background-size: cover;
     background-position: center;
     min-height: 70vh;
