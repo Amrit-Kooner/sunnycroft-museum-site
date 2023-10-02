@@ -1,5 +1,5 @@
 # sunnycroft-museum-site
 
-Live Demo: 
+Live Demo: https://amrit-kooner.github.io/sunnycroft-museum-site/
 
-View on my Portfolio:
+View on Portfolio: https://amrit-kooner.github.io/personal-portfolio/project-sunnycroft.html
